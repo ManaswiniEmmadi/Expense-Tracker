@@ -10,7 +10,7 @@ This project lets you:
 - View total spending for the current filter
 - See chart data for spending by category and spending over time
 - Delete expense records
-- Edit expense entries (if edit support is implemented in the current app)
+- Edit expense entries
 
 The app stores data locally using SQLite (`expense.db`) and uses Flask + SQLAlchemy on the backend.
 
