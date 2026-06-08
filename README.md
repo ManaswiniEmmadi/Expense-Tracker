@@ -53,8 +53,6 @@ http://127.0.0.1:5000/
 
 ## Screenshots
 
-You can add screenshots to this repository and reference them in the README like this:
-
 ```markdown
 ![Dashboard screenshot](screenshots/dashboard.png)
 ![Add Expense screenshot](screenshots/add_expense.png)
