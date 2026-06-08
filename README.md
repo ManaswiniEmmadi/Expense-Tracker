@@ -53,16 +53,20 @@ http://127.0.0.1:5000/
 
 ## Screenshots
 
-```markdown
+Dashboard:
 ![Dashboard screenshot](screenshots/dashboard.png)
 
+Add Expense:
 ![Add Expense screenshot](screenshots/add_expense.png)
 
+Filters:
 ![Filters screenshot](screenshots/filters.png)
 
+List Expenses:
 ![List Expenses screenshot](screenshots/list_expenses.png)
 
+Edit Expense:
 ![Edit Expense screenshot](screenshots/edit_expense.png)
 
+Chart Data:
 ![Charts screenshot](screenshots/charts.png)
-```
